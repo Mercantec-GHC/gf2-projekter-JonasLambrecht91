@@ -43,7 +43,7 @@ namespace Hjemmet
                 {
                     Console.WriteLine("You win!");
                 }
-                else if ((player == "R" && computer == "S") ||
+                else if ((player == "R" && computer == "P") ||
                          (player == "P" && computer == "S") ||
                          (player == "S" && computer == "R"))
                 {
